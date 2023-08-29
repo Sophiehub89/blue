@@ -1,1 +1,1 @@
-# blueiptv.html
+# blueiptv
